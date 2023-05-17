@@ -1,0 +1,26 @@
+_repo: Lebensbilder-b-Novellensammlung_70775
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barber, Ida
+    gutenberg_agent_id: '55920'
+    url: http://www.gutenberg.org/2009/agents/55920
+description: ''
+gutenberg_issued: '2023-05-16'
+identifiers:
+  gutenberg: '70775'
+language: de
+pgterms:marc904: https://catalog.hathitrust.org/Record/009782670
+pgterms:marc905: 20210403061529barber
+pgterms:marc906: '1882'
+pgterms:marc907: AT
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aAustria :$bVerlag von E. Czaki, $c1882.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lebensbilder : $b Novellensammlung'
+url: http://www.gutenberg.org/ebooks/70775
